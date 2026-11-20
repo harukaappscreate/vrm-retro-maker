@@ -12,7 +12,7 @@
 絵をドット絵（高さ 32〜128 px、16〜256 色）にして、1 ドットを 1 本の立方体の柱にします（体の真ん中ほど厚い）。
 骨の位置（関節）は自分でドラッグして合わせます。VRM 1.0 と VRM 0.x で保存できます。
 
-[VRM RETRO VIEWER](../vrm_retro_viewer)、VRM Motion Studio の兄弟ツールです。
+[VRM RETRO VIEWER](https://github.com/harukaappscreate/vrm-retro-viewer)、VRM Motion Studio の兄弟ツールです。
 
 ファイルはどこにも送信しません。読み込みも変換も、ブラウザ（または手元のパソコン）の中で行います。
 

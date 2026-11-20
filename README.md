@@ -12,7 +12,7 @@ Check it before saving with 231 CC0 motions, and switch between Before and After
 the picture becomes pixel art (32–128 px tall, 16–256 colours), each pixel a column of voxels (thicker towards the middle of the body),
 with a skeleton you place yourself by dragging the joints. Download it as VRM 1.0 or VRM 0.x.
 
-A sibling of [VRM RETRO VIEWER](../vrm_retro_viewer) and VRM Motion Studio.
+A sibling of [VRM RETRO VIEWER](https://github.com/harukaappscreate/vrm-retro-viewer) and [VRM Motion Studio](https://github.com/harukaappscreate/vrm-motion-studio).
 
 Your file is never uploaded. Reading and converting happen inside your browser (or your own computer).
 
